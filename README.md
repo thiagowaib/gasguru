@@ -8,20 +8,19 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes atividades:
 
+[✓] ~~Telas Iniciais~~
 <br>
-[**✓**] ~~Telas Iniciais~~
+[✓]  ~~Atualização do ReadMe~~
 <br>
-[**✓**]  ~~Atualização do ReadMe~~
-<br>
-[ ] **Publicação do APK**
+[ ] Publicação do APK
 <br>
 [ ] Documentação da instalação
 <br>
-[ ]** Home Page para o download**
+[ ] Home Page para o download
 <br>
 [ ] Integração com API de Postos
 <br>
-[ ] **Feat: Postos mais próximos de ti**
+[ ] Feat: Postos mais próximos de ti
 <br>
 
 ## 💻 Onde fazer o download?
@@ -29,7 +28,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Por enquanto o download pode ser feito diretamente através do link abaixo, contando que:
 * Você tenha um celular Android
 * Siga os passos de instalação abaixo
+
 <br>
+
 **[Link para o Download](http://google.com "Link para o Download")**
 
 ## 🚀 Instalação
