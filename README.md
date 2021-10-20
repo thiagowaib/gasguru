@@ -48,11 +48,6 @@ Mais informações sobre instalação de .apk pode ser encontrada [aqui](https:/
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Agradecimentos às seguintes pessoas que contribuíram para este projeto:
 
 * **[Marcelo Magalhães](https://github.com/Marcelo-maga "Marcelo Magalhães")**
-
-<br>
-------------
-
-[⬆ Voltar ao topo](#gasguru)<br>
