@@ -1,6 +1,6 @@
 # Gas Guru
 
-<img src="https://imgur.com/a/yEHiryQ" alt="Imagem Exemplo">
+<img src="https://imgur.com/a/bvrigeY" alt="Imagem Exemplo">
 
 > O Gas Guru é um aplicativo mobile para dispositivos android que traz ao usuário utilidades e informações relacionadas ao abastecimento de combustível em veículos.
 
