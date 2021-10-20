@@ -8,28 +8,31 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes atividades:
 
+<br>
 [**✓**] ~~Telas Iniciais~~
+<br>
 [**✓**]  ~~Atualização do ReadMe~~
+<br>
 [ ] **Publicação do APK**
+<br>
 [ ] Documentação da instalação
+<br>
 [ ]** Home Page para o download**
+<br>
 [ ] Integração com API de Postos
+<br>
 [ ] **Feat: Postos mais próximos de ti**
+<br>
 
 ## 💻 Onde fazer o download?
 
 Por enquanto o download pode ser feito diretamente através do link abaixo, contando que:
 * Você tenha um celular Android
 * Siga os passos de instalação abaixo
+<br>
 **[Link para o Download](http://google.com "Link para o Download")**
 
 ## 🚀 Instalação
-
-
-
-## ☕ Usando <nome_do_projeto>
-
-## 📫 Contribuindo para <nome_do_projeto>
 
 ## 🤝 Colaboradores
 
@@ -37,9 +40,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 * **[Marcelo Magalhães](https://github.com/Marcelo-maga "Marcelo Magalhães")**
 
-<br><br>
+<br>
 ------------
-
-
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
