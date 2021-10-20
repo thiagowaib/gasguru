@@ -1,55 +1,47 @@
-// import React from "react";
-// import "react-native-gesture-handler";
-// import { NavigationContainer } from "@react-navigation/native";
-// import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-// import { createStackNavigator } from "@react-navigation/stack";
+import React from "react";
+import "react-native-gesture-handler";
+import { NavigationContainer } from "@react-navigation/native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { createStackNavigator } from "@react-navigation/stack";
 
-// import TabHome from '../screens/TabHome/index';
-// import TabAccount from '../screens/TabAccount/index';
-// import Profile from '../screens/Profile/index';
-// import TokenConfig from '../screens/TokenConfig/index'
-// import SignIn from "../screens/Signin/index";
-// import SignUp from '../screens/Signup/index';
-// import ResetPwd from '../screens/ResetPwd/index';
-// import NavTabs from "../components/NavTabs";
-// import Token from "../screens/TabHome/Token";
+import TabMenu from '../screens/TabMenu/index'
+import TabConfig from '../screens/TabConfig/index'
 
-// const Tab = createBottomTabNavigator();
-// const Stack = createStackNavigator();
+import PageComp from "../screens/PageComp";
 
-// function Home() {
-//   return (
-//     <Tab.Navigator
-//       initialRouteName="TabHome"
-//       screenOptions={() => ({
-//         headerShown: false,
-//       })}
-//       tabBar={() => (<NavTabs/>)}
-//     >
-//       <Tab.Screen name="Início" component={TabHome} />
-//       <Tab.Screen name="Conta" component={TabAccount} />
-//     </Tab.Navigator>
-//   );
-// }
+import BottomTab from '../components/BottomTab/index'
 
-// export default function MainStack() {
-//   return (
-//     <NavigationContainer>
-//       <Stack.Navigator
-//         initialRouteName="SignIn"
-//         screenOptions={{
-//           headerShown: false,
-//         }}
-//       >
-//         <Stack.Screen name="SignIn" component={SignIn} />
-//         <Stack.Screen name="SignUp" component={SignUp} />
-//         <Stack.Screen name="ResetPwd" component={ResetPwd} />
-//         <Stack.Screen name="Home" component={Home} />
-//         <Stack.Screen name="Token" component={Token} />
-//         <Stack.Screen name="Perfil" component={Profile} />
-//         <Stack.Screen name="TokenConfig" component={TokenConfig} />
+const Tab = createBottomTabNavigator();
+const Stack = createStackNavigator();
 
-//       </Stack.Navigator>
-//     </NavigationContainer>
-//   );
-// }
+function Home() {
+  return (
+    <Tab.Navigator
+      initialRouteName="TabMenu"
+      screenOptions={() => ({
+        headerShown: false,
+      })}
+      tabBar={() => (<BottomTab/>)}
+    >
+      <Tab.Screen name="Menu" component={TabMenu} />
+      <Tab.Screen name="Config" component={TabConfig} />
+    </Tab.Navigator>
+  );
+}
+
+export default function MainStack() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="Home"
+        screenOptions={{
+          headerShown: false,
+        }}
+      >
+        <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="PageComp" component={PageComp} />
+
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
