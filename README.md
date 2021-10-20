@@ -31,7 +31,7 @@ Por enquanto o download pode ser feito diretamente através do link abaixo, cont
 * Você tenha um celular Android
 * Siga os passos de instalação abaixo
 
-**[Link para o Download](http://google.com "Link para o Download")**
+**[Link para o Download](https://drive.google.com/drive/folders/1emge5_lkJNbezd37hJsWf8C4mPjD1tCT?usp=sharing "Link para o Download")**
 
 ## 🚀 Instalação
 
