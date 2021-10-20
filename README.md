@@ -53,4 +53,5 @@ Agradecimentos às seguintes pessoas que contribuíram para este projeto:
 * **[Marcelo Magalhães](https://github.com/Marcelo-maga "Marcelo Magalhães")**
 
 <br>
+
 [⬆ Voltar ao topo](#gas-guru)<br>
