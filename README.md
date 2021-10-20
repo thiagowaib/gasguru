@@ -1,8 +1,5 @@
 # Gas Guru
 
-<img src="https://github.com/thiagowaib/gasguru/blob/main/assets/github/example.png" 
-width="200px" height="200px" textAlign="center" alt="Imagem Exemplo">
-
 > O Gas Guru é um aplicativo mobile para dispositivos android que traz ao usuário utilidades e informações relacionadas ao abastecimento de combustível em veículos.
 
 ### Roadmap
