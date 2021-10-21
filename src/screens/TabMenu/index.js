@@ -1,3 +1,4 @@
+/* Copyright (C) 2021  Thiago Waib C. Branco */
 import React, {useState, useEffect} from 'react'
 import { Text, VStack, ScrollView, KeyboardAvoidingView, Box, Divider } from 'native-base'
 import { useNavigation } from "@react-navigation/native";

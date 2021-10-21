@@ -1,3 +1,4 @@
+/* Copyright (C) 2021  Thiago Waib C. Branco */
 import { Text, VStack, ScrollView, KeyboardAvoidingView, Box, Divider, Pressable, Link } from 'native-base'
 import React from 'react'
 

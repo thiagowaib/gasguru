@@ -1,3 +1,4 @@
+/* Copyright (C) 2021  Thiago Waib C. Branco */
 import { Text, VStack, KeyboardAvoidingView, ScrollView, Divider, Pressable, Box, HStack,  } from 'native-base'
 import React, {useState, useEffect} from 'react'
 import { Entypo } from '@expo/vector-icons';
